@@ -1,0 +1,12 @@
+[
+  {
+    "username": "vincent_lau",
+    "email": "vincentlau@gmail.com",
+    "admin": true
+  },
+  {
+    "username": "oscar_wong",
+    "email": "oscar_wong@gmail.com",
+    "admin": true
+  }
+]
